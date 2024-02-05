@@ -1,1 +1,1 @@
-This is a test repo
+A repo used for code review lesson
